@@ -1,4 +1,3 @@
-# pwnvm_libvert
 # Setting up Vagrant with a libvert provider
 
 
